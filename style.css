@@ -1,0 +1,34 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+.list_1{
+    list-style-type: none;
+}
+
+#new1{
+    background-color: whitesmoke;
+}
+
+.card{
+    box-shadow: 3px 4px 5px 0px rgba(190,181,181,0.75);
+
+}
+
+.footer{
+    background-color: rgb(178, 178, 171);
+}
+
+#project1{
+    background-color: rgb(232, 239, 239);
+}
+
+#form1{
+    padding:10px;
+    box-shadow: 2px 2px 2px 2px rgba(223, 213, 213, 0.821);
+}
+
+#align{
+    margin-left: 50px;
+}
