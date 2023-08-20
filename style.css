@@ -3,6 +3,9 @@
     margin:0px;
 }
 
+.custom{
+    background-color: rgb(53, 53, 54) !important;
+}
 .list_1{
     list-style-type: none;
 }
@@ -31,4 +34,7 @@
 
 #align{
     margin-left: 50px;
+}
+.custom1{
+    padding-left: 0px !important;
 }
